@@ -41,7 +41,9 @@ python Tugas/kalkulator_koordinat.py
 
 ## Refleksi
 
-Dari tugas ini saya belajar menggunakan input, variabel, operasi aritmatika, dan output pada Python. Saya juga belajar menjalankan program melalui terminal VS Code serta mengelola dan mengumpulkan tugas menggunakan GitHub.
+- Konsep yang paling saya pahami adalah penggunaan input, variabel, dan operasi aritmatika karena saya bisa langsung menerapkannya pada program kalkulator koordinat.
+- Kesalahan yang saya temukan adalah hasil perhitungan harus ditampilkan dengan dua angka desimal dan saya memperbaikinya dengan menggunakan format `:.2f`.
+- Pada pertemuan berikutnya saya ingin lebih memahami penggunaan Git dan GitHub serta cara membuat program Python yang lebih kompleks.
 
 ## Sumber
 - Bahan Ajar Dasar Python di VS Code dan Pengumpulan melalui GitHub – Pertemuan 02.
