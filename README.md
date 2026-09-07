@@ -5,19 +5,18 @@
 - NIM: 2225250076
 - Kelas: 2A
 
-## Tujuan
-Repository ini berisi latihan dasar Python menggunakan VS Code dan tugas kalkulator koordinat dua titik.
+## Tujuan Repository
+Repository ini digunakan untuk mengumpulkan latihan dasar Python dan tugas kalkulator koordinat pada Pertemuan 02. Program dibuat dan dijalankan menggunakan VS Code.
 
-## Isi Repository
+## Daftar dan Fungsi Berkas
 
-### Folder Latihan
-- `01_biodata.py` → Program biodata dan perkiraan umur.
-- `02_persegi_panjang.py` → Menghitung luas dan keliling persegi panjang.
-- `03_konversi_suhu.py` → Mengubah suhu Celsius ke Fahrenheit dan Kelvin.
-- `04_nilai_akhir.py` → Menghitung nilai akhir berdasarkan bobot tugas, UTS, dan UAS.
-
-### Folder Tugas
-- `kalkulator_koordinat.py` → Menghitung perubahan koordinat, jarak, dan titik tengah dua titik.
+| Berkas | Fungsi |
+|---|---|
+| `Latihan/01_biodata.py` | Menampilkan biodata dan menghitung perkiraan umur. |
+| `Latihan/02_persegi_panjang.py` | Menghitung luas dan keliling persegi panjang. |
+| `Latihan/03_konversi_suhu.py` | Mengonversi suhu Celsius ke Fahrenheit dan Kelvin. |
+| `Latihan/04_nilai_akhir.py` | Menghitung nilai akhir berdasarkan nilai tugas, UTS, dan UAS. |
+| `Tugas/kalkulator_koordinat.py` | Menghitung perubahan koordinat, jarak, dan titik tengah dari dua titik. |
 
 ## Cara Menjalankan Program
 
@@ -29,6 +28,7 @@ python Latihan/02_persegi_panjang.py
 python Latihan/03_konversi_suhu.py
 python Latihan/04_nilai_akhir.py
 python Tugas/kalkulator_koordinat.py
+```
 
 ## Hasil Pengujian Tugas Utama
 
@@ -46,6 +46,7 @@ python Tugas/kalkulator_koordinat.py
 - Pada pertemuan berikutnya saya ingin lebih memahami penggunaan Git dan GitHub serta cara membuat program Python yang lebih kompleks.
 
 ## Sumber
+
 - Bahan Ajar Dasar Python di VS Code dan Pengumpulan melalui GitHub – Pertemuan 02.
 - Python Documentation.
 - Visual Studio Code Documentation.
