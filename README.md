@@ -47,7 +47,7 @@ python tugas/kalkulator_koordinat.py
 
 ## Sumber
 
-- Bahan Ajar Dasar Python di VS Code dan Pengumpulan melalui GitHub – Pertemuan 02.
-- Python Documentation.
-- Visual Studio Code Documentation.
-- GitHub Documentation.
+- Bahan Ajar Dasar Python di VS Code dan Pengumpulan melalui GitHub, Pertemuan 02, Algpritma dan Pemrograman, S1 Pendidikan Matematika FKIP Untirta.
+- Python Tutorial.
+- Visual Studio Code 
+- GitHub Docs.
