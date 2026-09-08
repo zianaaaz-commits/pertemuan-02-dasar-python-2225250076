@@ -49,6 +49,6 @@ python tugas/kalkulator_koordinat.py
 ## Sumber
 
 - Bahan Ajar Dasar Python di VS Code dan Pengumpulan melalui GitHub – Pertemuan 02.
-- Python Documentation.
-- Visual Studio Code Documentation.
-- GitHub Documentation.
+- Python Software Foundation. The Python Tutorial.
+- Visual Studio Code. Getting Started with Python in VS Code.
+- GitHub Docs. Creating a New Repository.
