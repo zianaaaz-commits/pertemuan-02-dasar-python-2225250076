@@ -3,7 +3,7 @@
 ## Identitas
 - Nama: Ziana Alfia Zahra
 - NIM: 2225250076
-- Kelas: 2A
+- Kelas: 3A
 
 ## Tujuan Repository
 Repository ini digunakan untuk mengumpulkan latihan dasar Python dan tugas kalkulator koordinat pada Pertemuan 02. Program dibuat dan dijalankan menggunakan VS Code.
