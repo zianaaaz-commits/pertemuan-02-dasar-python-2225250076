@@ -1,7 +1,7 @@
 """
 Nama  : Ziana Alfia Zahra
 NIM   : 2225250076
-Kelas : 2A
+Kelas : 3A
 """
 
 print("KALKULATOR KOORDINAT DUA TITIK")
